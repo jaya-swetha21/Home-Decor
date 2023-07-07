@@ -1,3 +1,3 @@
-# Online-Fruit-Shop
-E-Commerce fruit selling site using html, css and javascript
+# Home Decor
+E-Commerce furniture selling site using html, css and javascript
 
